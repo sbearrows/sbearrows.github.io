@@ -1,0 +1,7 @@
+---
+title: "Shelby's CV"
+layout: default
+---
+<object data = "https://github.com/sbearrows/sbearrows.github.io/raw/master/scbearrows_CV_v1.pdf" type = "application/pdf">
+  <iframe src=src="https://docs.google.com/viewer?url=https://github.com/sbearrows/sbearrows.github.io/raw/master/scbearrows_CV_v1.pdf&embedded=true"></iframe>
+</object>

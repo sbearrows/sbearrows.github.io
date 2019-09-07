@@ -48,3 +48,7 @@ pre {
     color: #333;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+#cv_header {
+    text-align: center;
+}

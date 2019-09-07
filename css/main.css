@@ -41,3 +41,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+pre {
+  display: block;
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+  white-space: pre;
+  margin: 1em 0;
+}

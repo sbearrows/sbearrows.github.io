@@ -54,10 +54,19 @@ pre {
     text-align: center;
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 #cv_header_2{
     text-align: center;
+}
+
+h2 {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+h4 {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 *{

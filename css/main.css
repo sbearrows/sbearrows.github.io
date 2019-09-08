@@ -59,3 +59,8 @@ pre {
 #cv_header_2{
     text-align: center;
 }
+
+*{
+  margin:0;
+  padding:0;
+}

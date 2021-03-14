@@ -71,6 +71,10 @@ pre {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
+.end_list {
+    padding-bottom: 10px;
+}
+
 .left {
     float:left;
 }
